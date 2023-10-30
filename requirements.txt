@@ -1,0 +1,8 @@
+gradio
+langchain
+tiktoken
+pinecone-client
+openai
+langchainhub
+pre-commit
+python-dotenv
